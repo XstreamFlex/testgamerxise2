@@ -1,2 +1,3 @@
-# testgamerxise2
-test-GamerXise website
+# test-GamerXise Website
+
+Live site: https://xstreamflex.github.io/testgamerxise2/
